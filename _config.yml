@@ -1,0 +1,14 @@
+layout_spectrum: 0.08865126688033342
+typography_spectrum: 0.15183627069927752
+color:
+  brandStrength: 0.42825980368070304
+  lightness: 0.44649090338498354
+  saturation: 0.2861239432822913
+  rhythmicContrast: 0.8223386299796402
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: Community Strengths
