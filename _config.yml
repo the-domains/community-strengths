@@ -1,4 +1,3 @@
-layout_spectrum: 0.08865126688033342
 typography_spectrum: 0.15183627069927752
 color:
   brandStrength: 0.42825980368070304
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.08865126688033342
 name: Community Strengths
+title: Engage Connect Support
